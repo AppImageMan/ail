@@ -1,0 +1,1 @@
+https://github.com/srevinsaju/Brave-AppImage/releases/download/v1.74.48/Brave-stable-v1.74.48-x86_64.AppImage
