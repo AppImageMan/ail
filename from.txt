@@ -1,0 +1,1 @@
+https://github.com//probonopd/go-appimage/releases/download/continuous/appimaged-866-x86_64.AppImage
