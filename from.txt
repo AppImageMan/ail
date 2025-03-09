@@ -1,0 +1,1 @@
+https://github.com/AppImageCommunity/pkg2appimage/releases/tag/continuous
