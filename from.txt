@@ -1,1 +1,1 @@
-Created via pkg2appimage
+Created via arch2appimage
